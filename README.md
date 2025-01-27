@@ -18,6 +18,7 @@ I'm **Muhammad Basit**, a passionate **Web Developer** who loves building impact
 ### 🔧 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![StackBlitz](https://img.shields.io/badge/StackBlitz-%2300C7B7.svg?style=for-the-badge&logo=stackblitz&logoColor=white)](https://stackblitz.com/)
 
 ### 💡 Other
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
