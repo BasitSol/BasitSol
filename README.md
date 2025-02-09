@@ -1,7 +1,6 @@
 <!-- Center your banner -->
 <div align="center">
-  <!-- Use a tech-themed GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1aTZvNnZxZ3VxZ3A3b3Z1cG5jODJkY2h3ZmF3NnF5a2l4amNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKcGiSIV7tdSDk/giphy.gif" alt="Tech Banner" width="100%"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800px"/>
 </div>
 # 💫 About Me:
 I'm Muhammad Basit, a passionate Web Developer who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
