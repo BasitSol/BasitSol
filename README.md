@@ -1,6 +1,6 @@
 <!-- Center your banner -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800px"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1200px"/>
 </div>
 # 💫 About Me:
 I'm Muhammad Basit, a passionate Web Developer who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
