@@ -7,7 +7,8 @@
     <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Front End Developer</h1>
   </div>
 </div>
-# 💫 About Me:<br>
+
+# <h1>💫 About Me:</h1><br>
 I'm Muhammad Basit, a passionate Web Developer who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
 
 
