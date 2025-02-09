@@ -1,13 +1,13 @@
 <!-- Center your banner -->
 <div align="center" style="position:relative;">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1000px" height="450px"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="960px" height="350px"/>
   
   <!-- Floating Text Overlay -->
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">
-    <h1>Front End Developer</h1>
+    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Front End Developer</h1>
   </div>
 </div>
-# 💫 About Me:
+# 💫 About Me:<br>
 I'm Muhammad Basit, a passionate Web Developer who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
 
 
