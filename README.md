@@ -1,6 +1,6 @@
 <!-- Center your banner -->
 <div align="center" style="position:relative;">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="960px" height="350px"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="960px" height="300px"/>
   
   <!-- Floating Text Overlay -->
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">
