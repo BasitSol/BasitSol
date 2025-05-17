@@ -4,7 +4,7 @@
   
   <!-- Floating Text Overlay -->
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">
-    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Front End Developer</h1>
+    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Web Developer</h1>
   </div>
 </div>
 
