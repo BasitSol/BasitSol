@@ -4,12 +4,12 @@
   
   <!-- Floating Text Overlay -->
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">
-    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Web Developer</h1>
+    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">Backened & Cloud Enthusiast</h1>
   </div>
 </div>
 
 # <h1>💫 About Me:</h1><br>
-I'm Muhammad Basit, a passionate Web Developer who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
+I'm Muhammad Basit, passionate about the Backend world and cloud technologies who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
 
 
 # 💻 Tech Stack:
