@@ -8,8 +8,17 @@
   </div>
 </div>
 
-# <h1>💫 About Me:</h1><br>
-I'm Muhammad Basit, passionate about the Backend world and DevOps technologies who loves building impactful projects and Learning new things.<br>🔭 I’m currently working on how to inject the magic of AI into modern web technologies.<br>🌱 I’m currently learning  backend technologies like Node.js, Express, and MongoDB.<br>⚡ Fun fact : I once explored forest at 2 a.m , equipped with just torch and a stick
+---
+
+## 🚀 About Me:
+
+I'm **Muhammad Basit**, a **Cloud & DevOps** enthusiast passionate about building scalable systems and automating infrastructure. I love turning complex problems into clean, efficient solutions.
+
+🔧 **Currently working on:** CI/CD pipelines, container orchestration, and cloud-native deployments  
+📚 **Currently learning:** Node.js, Express, MongoDB & advanced Kubernetes patterns  
+⚡ **Fun fact:** I once explored a forest at 2 a.m. with just a torch and a stick — debugging production issues feels similar 🌲
+
+---
 
 
 # 💻 Tech Stack:
