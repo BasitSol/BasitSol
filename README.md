@@ -15,7 +15,7 @@
 I'm **Muhammad Basit**, a **Cloud & DevOps** enthusiast passionate about building scalable, resilient infrastructure and automating everything from deployment to monitoring. I thrive on turning complex cloud architectures into clean, efficient systems.
 
 🔧 **Currently working on:** Multi-cloud CI/CD pipelines, Kubernetes cluster management, and infrastructure-as-code automation  
-📚 **Currently learning:** Advanced Kubernetes (Helm, Operators, Service Mesh), Azure DevOps & AKS, and monitoring stacks (Prometheus, Grafana, Datadog)  
+📚 **perfect:** Advanced Kubernetes (Helm, Operators, Service Mesh), Azure DevOps & AKS, and monitoring stacks (Prometheus, Grafana, Datadog)  
 ⚡ **Fun fact:** I once explored a forest at 2 a.m. with just a torch and a stick — debugging production issues feels similar 🌲
 
 ---
