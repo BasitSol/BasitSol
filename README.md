@@ -4,7 +4,7 @@
   
   <!-- Floating Text Overlay -->
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">
-    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">AI, Cloud & DevOps Enthusiast</h1>
+    <h1 style="color: #00FF00; font-family: monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">AI, Cloud & DevOps </h1>
   </div>
 </div>
 
@@ -12,10 +12,10 @@
 
 ## 🚀 About Me:
 
-I'm **Muhammad Basit**, a **Cloud & DevOps** enthusiast passionate about building scalable, resilient infrastructure and automating everything from deployment to monitoring. I thrive on turning complex cloud architectures into clean, efficient systems.
+I'm **Muhammad Basit**, a **Cloud & DevOps** Engineer passionate about building scalable, resilient infrastructure and automating everything from deployment to monitoring. I thrive on turning complex cloud architectures into clean, efficient systems.
 
 🔧 **Currently working on:** Multi-cloud CI/CD pipelines, Kubernetes cluster management, and infrastructure-as-code automation  
-📚 **perfect:** Advanced Kubernetes (Helm, Operators, Service Mesh), Azure DevOps & AKS, and monitoring stacks (Prometheus, Grafana, Datadog)  
+📚 **Advancing:** Advanced Kubernetes (Helm, Operators, Service Mesh), Azure DevOps & AKS, and monitoring stacks (Prometheus, Grafana, Datadog)  
 ⚡ **Fun fact:** I once explored a forest at 2 a.m. with just a torch and a stick — debugging production issues feels similar 🌲
 
 ---
